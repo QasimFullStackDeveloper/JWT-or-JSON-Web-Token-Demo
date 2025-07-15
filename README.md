@@ -8,6 +8,7 @@ This project is a complete implementation of **JWT-based Authentication and Auth
 - 📄 Fully Commented Code
 - 💡 Easy to Understand for Beginners
 - 🧪 Ready-to-Run using **SQLite** (no need for SQL Server or migrations)
+- Scalar Freindly and Beautiful UI For Easily Testing the APIs
 
 
 ## 📌 Key Features
