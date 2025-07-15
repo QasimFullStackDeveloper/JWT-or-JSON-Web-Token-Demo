@@ -18,5 +18,5 @@ This project is a complete implementation of **JWT-based Authentication and Auth
 - 🛡️ Secure Token Storage & Validation  
 - 🗂️ Token Revocation & Expiry Handling  
 - 📝 **Extensive Code Comments for Learning**  
-- 📦 Built with **ASP.NET Core 9**  
+- 📦 Built with **ASP.NET Core 9 Web API**  
 - 🗃️ Uses **SQLite** for simplicity (No SSMS or migrations needed)
